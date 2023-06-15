@@ -2,7 +2,7 @@
 #### I am Full-stack web developer with MERN stack.
 I am a self‑motivated, target‑ oriented, and passionate full-stack web developer. I have about one year experience in web development industry. I have built up a diverse range of skills and qualities in web technologies for back-end and front-end development during last one year. I have the ability to work independently or as part of a team and get on well with people at all levels, easily establishing good working relationships. I am adaptable, quick to learn new skills, well capable of searching for various development‑related issues and have the ability to solve those issues.
 
-Skills: [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,typescript,redux,bootstrap,tailwind,mongodb,nextjs,express,nodejs,firebase,jest,mysql,prisma,aws,docker,git,github)](https://skills.thijs.gg)
+Skills: [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,typescript,redux,bootstrap,tailwind,mongodb,nextjs,express,nodejs,firebase,jest,mysql,prisma,aws,docker,git,github,graphql,postman,latex,figma,c,python)](https://skills.thijs.gg)
 
 - 🔭 I’m currently working on Microservices 
 - 🌱 I’m currently learning TypeScript 
