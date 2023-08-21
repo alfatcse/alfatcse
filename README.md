@@ -5,7 +5,7 @@ I am a self‑motivated, target‑ oriented, and passionate full-stack web devel
 ### :computer: Technologies that I know:
 <br>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,typescript,redux,bootstrap,tailwind,mongodb,nextjs,express,nodejs,firebase,jest,mysql,prisma,aws,docker,git,github,graphql,postman,latex,figma,c,python)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,typescript,redux,bootstrap,tailwind,mongodb,nextjs,express,nodejs,firebase,jest,mysql,prisma,aws,docker,git,github,graphql,postman,latex,figma,c,python,java,postgresql,vue,redis,angular,vscode)](https://skills.thijs.gg)
 
 - 🔭 I’m currently working on Microservices 
 - 🌱 I’m currently learning TypeScript 
